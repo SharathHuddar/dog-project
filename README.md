@@ -1,3 +1,5 @@
+# Dog Project
+
 [//]: # (Image References)
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
